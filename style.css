@@ -5,6 +5,7 @@ body{
   font-size: 20px;
   background-color: transparent !important;
   width: 100vw;
+  font-family: helvetica;
 }
 
 a{
@@ -16,7 +17,7 @@ a{
   height:70px;
   color: #fff;
 }
-.push2nav{
+.personalnav{
   width: 100%;
   position: relative;
   display: block;
@@ -51,4 +52,40 @@ a{
 .brand-image{
   margin-top: 10px !important;
   margin-left: 20px;
+}
+
+#nasty1{
+  height: 600px;
+  background-color: #795548;
+  color: #fff;
+}
+
+#nasty2{
+  height: 600px;
+  background-color: #EF6C00;
+  color: #fff;
+}
+
+#nasty3{
+  height: 600px;
+  background-color: #F9A825;
+  color: #fff;
+}
+
+#nasty4{
+  height: 600px;
+  background-color: #CDDC39;
+  color: #fff;
+}
+
+#nasty5{
+  height: 600px;
+  background-color: #8BC34A;
+  color: #fff;
+}
+
+#nasty6{
+  height: 600px;
+  background-color: #4CAF50;
+  color: #fff;
 }
