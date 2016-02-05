@@ -8,5 +8,5 @@ $(".scroll").click(function(event){
             dest=$(this.hash).offset().top;
        }
        //go to destination
-       $('html,body').animate({scrollTop:dest}, 600,'swing');
+       $('html,body').animate({scrollTop:dest}, 1000,'swing');
    });
