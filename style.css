@@ -1,0 +1,54 @@
+/*============================================
+    Terms and Conditions Page
+==============================================*/
+body{
+  font-size: 20px;
+  background-color: transparent !important;
+  width: 100vw;
+}
+
+a{
+  text-decoration: none;
+}
+
+
+.navbar-header{
+  height:70px;
+  color: #fff;
+}
+.push2nav{
+  width: 100%;
+  position: relative;
+  display: block;
+  height: 70px;
+  margin-bottom: 0 !important;
+  border-radius: 0px !important;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.40);
+  padding-bottom: 2px;
+  background-color: #161633;
+  color:#FFF;
+}
+
+.navbar-toggle {
+  color: #FFF;
+  font-size: 18px;
+  margin-top: 12px !important;
+  z-index: 0;
+}
+
+.navbar-right {
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 8px;
+  margin-right: 0px !important;
+
+}
+
+.navbar-brand{
+  margin-left: 18px;
+  color: #FFF;
+}
+.brand-image{
+  margin-top: 10px !important;
+  margin-left: 20px;
+}
