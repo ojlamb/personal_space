@@ -12,6 +12,16 @@ a{
   text-decoration: none;
 }
 
+h1{
+  margin-top: 0px !important;
+  padding-top: 100px;
+  font-size: 100px;
+}
+
+.section{
+  text-align: center;
+}
+
 
 .navbar-header{
   height:70px;
