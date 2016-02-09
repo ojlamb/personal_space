@@ -1,1 +1,1 @@
-This is a repo for Hack the Dot. personalspace.rehab
+Hack the Dot Portland Hackathon was a one night event where participants were randomly placed in teams of six then presented a challenge to develop a website in two hours based on the domain name of personalspace.rehab and then pitch it to the judges. The judges would then select the five top teams to present their website to the entire group. The team with loudest applause would win the competition.
